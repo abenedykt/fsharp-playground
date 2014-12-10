@@ -9,3 +9,11 @@ C:\Visual Studio Projects\180_days_project\FSharp_playground\bin\Debug\FSharp.Co
 C:\Visual Studio Projects\180_days_project\FSharp_playground\bin\Debug\nunit.framework.xml
 C:\Visual Studio Projects\180_days_project\FSharp_playground\obj\Debug\FSharp_playground.exe
 C:\Visual Studio Projects\180_days_project\FSharp_playground\obj\Debug\FSharp_playground.pdb
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\bin\Debug\FSharp_playground.exe.config
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\bin\Debug\FSharp_playground.XML
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\bin\Debug\FSharp_playground.exe
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\bin\Debug\FSharp_playground.pdb
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\bin\Debug\FSharp.Core.dll
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\bin\Debug\FSharp.Core.xml
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\obj\Debug\FSharp_playground.exe
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FSharp_playground\obj\Debug\FSharp_playground.pdb

@@ -1,0 +1,8 @@
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\bin\Debug\FizzBuzz.XML
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\bin\Debug\FSharp.Core.dll
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\bin\Debug\FSharp.Core.xml
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Visual Studio Projects\180_days_project\FSharp_playground\src\FizzBuzz\obj\Debug\FizzBuzz.pdb
