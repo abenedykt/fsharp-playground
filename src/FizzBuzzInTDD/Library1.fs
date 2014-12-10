@@ -3,12 +3,12 @@
 open Xunit
 open FluentAssertions
 
-module EnvironmentTests =
+module ``enviroment tests`` =
 
     [<Fact>]
-    let First_unit_test_in_fsharp() =
+    let ``first unit test in f#``() =
         Assert.True(true)
 
     [<Fact>]
-    let Unit_test_with_fluent_assertions() =
+    let ``first unit test that uses fluent assertions``() =
         true.Should().BeTrue("should be true")
