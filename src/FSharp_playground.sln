@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp_playground", "FSharp_playground.fsproj", "{2E14CEA6-2562-4BC3-B861-C34417C0A2AB}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp_playground", "FSharp_playground\FSharp_playground.fsproj", "{2E14CEA6-2562-4BC3-B861-C34417C0A2AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
