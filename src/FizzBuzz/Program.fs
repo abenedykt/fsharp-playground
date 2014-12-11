@@ -14,5 +14,6 @@ let main argv =
     let numbers = [1..100]
     let result = List.map(fizzBuzz) numbers
     printfn "%A" result
-    
+
+
     0 // return an integer exit code
