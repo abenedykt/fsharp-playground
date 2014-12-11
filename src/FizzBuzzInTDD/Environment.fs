@@ -1,6 +1,7 @@
 ﻿namespace FizzBuzzInTDD
 
 open Xunit
+open Xunit.Extensions
 open FluentAssertions
 
 module ``enviroment tests`` =
