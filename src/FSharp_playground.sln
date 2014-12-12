@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp_playground", "FSharp_playground\FSharp_playground.fsproj", "{2E14CEA6-2562-4BC3-B861-C34417C0A2AB}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "1.FSharp_playground", "FSharp_playground\1.FSharp_playground.fsproj", "{2E14CEA6-2562-4BC3-B861-C34417C0A2AB}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzz", "FizzBuzz\FizzBuzz.fsproj", "{47EC3B70-A7FC-4BBE-ACBE-2D861264E4F0}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "2.FizzBuzz", "FizzBuzz\2.FizzBuzz.fsproj", "{47EC3B70-A7FC-4BBE-ACBE-2D861264E4F0}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzzInTDD", "FizzBuzzInTDD\FizzBuzzInTDD.fsproj", "{8BFB26DA-49A3-4CD4-8B53-A99179B7148A}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "3.FizzBuzzInTDD", "FizzBuzzInTDD\3.FizzBuzzInTDD.fsproj", "{8BFB26DA-49A3-4CD4-8B53-A99179B7148A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
