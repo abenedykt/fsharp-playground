@@ -1,4 +1,5 @@
 ﻿namespace FizzBuzzInTDD
+
 module FizzBuzz =
     open Xunit
     open Xunit.Extensions
