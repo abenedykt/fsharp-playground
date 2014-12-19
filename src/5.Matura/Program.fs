@@ -1,20 +1,34 @@
 ﻿// Learn more about F# at http://fsharp.net
 // See the 'F# Tutorial' project for more help.
 open System
+open System.Numerics
 
 [<EntryPoint>]
 let main argv =
 
-    let numbers = [1..40000]
+    let endVal:BigInteger = 400000000000I
 
-    let lastDigit n =
+    let numbers:bigint seq =
+        let rec loop n = seq { yield n; yield! loop (n+1I) }
+        loop 0I
+
+    let lastDigit (n:BigInteger) =
         let square = (n * n).ToString()
         square.Chars(square.Length - 1)
 
+    let trace (x:BigInteger) =
+        if x % 100000000I = 0I then Console.WriteLine("f# " + x.ToString())
+        x
+
     numbers
-    |> List.map lastDigit
-    |> Seq.distinct 
+    |> Seq.map trace
+    |> Seq.map lastDigit
+    |> Seq.distinct
     |> Seq.iter (printf " %c")
 
-    printfn ""
+
+    numbers |> System.Diagnostics.Trace.WriteLine
+
+    printfn "end"
+    let k = System.Console.ReadLine()
     0 // return an integer exit code
