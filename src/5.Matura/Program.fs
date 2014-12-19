@@ -1,6 +1,4 @@
-﻿// Learn more about F# at http://fsharp.net
-// See the 'F# Tutorial' project for more help.
-open System
+﻿open System
 open System.Numerics
 
 [<EntryPoint>]
@@ -25,9 +23,6 @@ let main argv =
     |> Seq.map lastDigit
     |> Seq.distinct
     |> Seq.iter (printf " %c")
-
-
-    numbers |> System.Diagnostics.Trace.WriteLine
 
     printfn "end"
     let k = System.Console.ReadLine()
