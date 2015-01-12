@@ -13,7 +13,9 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "4.Slownie", "Slownie\4.Slow
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "5.Matura", "5.Matura\5.Matura.fsproj", "{EBEF4695-7B39-4A42-8EB5-F68923CCB8AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpVer", "5.MaturaCSharpVer\CSharpVer.csproj", "{1DAF2025-A9F3-4560-BC1F-F9883009B371}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Matura_CSharpVer", "5.MaturaCSharpVer\5.Matura_CSharpVer.csproj", "{1DAF2025-A9F3-4560-BC1F-F9883009B371}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Matura", "5. Matura", "{D15BB6C1-3BCC-4763-8C55-DE7630A24053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,5 +50,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBEF4695-7B39-4A42-8EB5-F68923CCB8AC} = {D15BB6C1-3BCC-4763-8C55-DE7630A24053}
+		{1DAF2025-A9F3-4560-BC1F-F9883009B371} = {D15BB6C1-3BCC-4763-8C55-DE7630A24053}
 	EndGlobalSection
 EndGlobal
