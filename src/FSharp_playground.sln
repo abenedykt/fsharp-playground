@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Matura_CSharpVer", "5.Mat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Matura", "5. Matura", "{D15BB6C1-3BCC-4763-8C55-DE7630A24053}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "6.MultiModules", "6.MultiModules\6.MultiModules.fsproj", "{B5275F5B-9E46-4679-B885-25B0A9842100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{1DAF2025-A9F3-4560-BC1F-F9883009B371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DAF2025-A9F3-4560-BC1F-F9883009B371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DAF2025-A9F3-4560-BC1F-F9883009B371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5275F5B-9E46-4679-B885-25B0A9842100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5275F5B-9E46-4679-B885-25B0A9842100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5275F5B-9E46-4679-B885-25B0A9842100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5275F5B-9E46-4679-B885-25B0A9842100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
